@@ -11,6 +11,14 @@
 		EB4F33662BA459A7003584BE /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB4F33652BA459A7003584BE /* ContentView.swift */; };
 		EB4F33682BA459A8003584BE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EB4F33672BA459A8003584BE /* Assets.xcassets */; };
 		EB4F336B2BA459A8003584BE /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EB4F336A2BA459A8003584BE /* Preview Assets.xcassets */; };
+		EB4F33722BA47200003584BE /* AsyncImageBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB4F33712BA47200003584BE /* AsyncImageBasic.swift */; };
+		EB4F33742BA474C4003584BE /* BackgroundMaterialBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB4F33732BA474C4003584BE /* BackgroundMaterialBasic.swift */; };
+		EB4F33762BA47625003584BE /* TextSelectionBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB4F33752BA47625003584BE /* TextSelectionBasic.swift */; };
+		EB4F33782BA476B0003584BE /* ButtonStyleBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB4F33772BA476B0003584BE /* ButtonStyleBasic.swift */; };
+		EB4F337A2BA47873003584BE /* SwipActionBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB4F33792BA47873003584BE /* SwipActionBasic.swift */; };
+		EB4F337C2BA47A05003584BE /* BadgeBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB4F337B2BA47A05003584BE /* BadgeBasic.swift */; };
+		EB4F337E2BA47C09003584BE /* TextIOS15.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB4F337D2BA47C09003584BE /* TextIOS15.swift */; };
+		EB4F33802BA47D67003584BE /* SymbolVariantIOS15.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB4F337F2BA47D67003584BE /* SymbolVariantIOS15.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +27,14 @@
 		EB4F33652BA459A7003584BE /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		EB4F33672BA459A8003584BE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EB4F336A2BA459A8003584BE /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		EB4F33712BA47200003584BE /* AsyncImageBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncImageBasic.swift; sourceTree = "<group>"; };
+		EB4F33732BA474C4003584BE /* BackgroundMaterialBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundMaterialBasic.swift; sourceTree = "<group>"; };
+		EB4F33752BA47625003584BE /* TextSelectionBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextSelectionBasic.swift; sourceTree = "<group>"; };
+		EB4F33772BA476B0003584BE /* ButtonStyleBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonStyleBasic.swift; sourceTree = "<group>"; };
+		EB4F33792BA47873003584BE /* SwipActionBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwipActionBasic.swift; sourceTree = "<group>"; };
+		EB4F337B2BA47A05003584BE /* BadgeBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BadgeBasic.swift; sourceTree = "<group>"; };
+		EB4F337D2BA47C09003584BE /* TextIOS15.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextIOS15.swift; sourceTree = "<group>"; };
+		EB4F337F2BA47D67003584BE /* SymbolVariantIOS15.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SymbolVariantIOS15.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +71,14 @@
 				EB4F33652BA459A7003584BE /* ContentView.swift */,
 				EB4F33672BA459A8003584BE /* Assets.xcassets */,
 				EB4F33692BA459A8003584BE /* Preview Content */,
+				EB4F33712BA47200003584BE /* AsyncImageBasic.swift */,
+				EB4F33732BA474C4003584BE /* BackgroundMaterialBasic.swift */,
+				EB4F33752BA47625003584BE /* TextSelectionBasic.swift */,
+				EB4F33772BA476B0003584BE /* ButtonStyleBasic.swift */,
+				EB4F33792BA47873003584BE /* SwipActionBasic.swift */,
+				EB4F337B2BA47A05003584BE /* BadgeBasic.swift */,
+				EB4F337D2BA47C09003584BE /* TextIOS15.swift */,
+				EB4F337F2BA47D67003584BE /* SymbolVariantIOS15.swift */,
 			);
 			path = SwiftUiOS15Basic;
 			sourceTree = "<group>";
@@ -137,8 +161,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EB4F337C2BA47A05003584BE /* BadgeBasic.swift in Sources */,
+				EB4F33802BA47D67003584BE /* SymbolVariantIOS15.swift in Sources */,
+				EB4F33782BA476B0003584BE /* ButtonStyleBasic.swift in Sources */,
+				EB4F33722BA47200003584BE /* AsyncImageBasic.swift in Sources */,
+				EB4F33742BA474C4003584BE /* BackgroundMaterialBasic.swift in Sources */,
 				EB4F33662BA459A7003584BE /* ContentView.swift in Sources */,
+				EB4F33762BA47625003584BE /* TextSelectionBasic.swift in Sources */,
+				EB4F337A2BA47873003584BE /* SwipActionBasic.swift in Sources */,
 				EB4F33642BA459A7003584BE /* SwiftUiOS15BasicApp.swift in Sources */,
+				EB4F337E2BA47C09003584BE /* TextIOS15.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -280,6 +312,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -309,6 +342,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",

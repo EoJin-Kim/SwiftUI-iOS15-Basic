@@ -11,7 +11,7 @@ import SwiftUI
 struct SwiftUiOS15BasicApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            AsyncImageBasic()
         }
     }
 }
